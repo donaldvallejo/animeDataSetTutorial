@@ -1,0 +1,5 @@
+1. which shows have the hiest ratings?
+
+2. which show has the most episodes
+
+3. out of all the shows which one are high rated and only have 1 season
